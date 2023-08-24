@@ -1,4 +1,4 @@
-##Custom Window Control Buttons Extension
+#### **Custom Window Control Buttons Extension**
 
 most of the features mentioned here not fully work yet
 
@@ -6,7 +6,7 @@ Extension Demo
 
 The Custom Window Control Buttons is a browser extension designed to enhance the user experience by providing additional window control buttons with customizable functionalities. This extension is compatible with Firefox for now.
 
-##Installation
+### Installation
 
 To install the extension, follow these steps:
 
@@ -21,7 +21,7 @@ The Custom Window Control Buttons extension enhances the standard window control
     Improved Productivity: Easily access common tasks directly from the title bar without the need to navigate through menus.
     Intuitive Interface: The added buttons are designed to blend seamlessly with the existing window controls, maintaining a familiar user experience.
 
-Usage
+## Usage
 
 Once the extension is installed, you'll notice additional buttons on the title bar of your browser's windows. These buttons are configurable and can be assigned various actions according to your preferences.
 
@@ -32,7 +32,7 @@ By default, the extension provides the standard close, minimize, and maximize bu
     Activating a specific extension
     Running custom scripts
 
-Customization
+## Customization
 
 Customizing the extension buttons is straightforward:
 
@@ -52,7 +52,7 @@ Contributions to this project are welcome and encouraged! If you have any ideas,
     Push your changes to your fork.
     Open a pull request explaining the changes you've made.
 
-##License
+### License
 
 This extension is released under the MIT License, which means you can use it, modify it, and distribute it for free. Make sure to refer to the License file for more details.
 

@@ -9,7 +9,7 @@ Installation
 
 To install the extension, follow these steps:
 
-    not published yet waiting
+    not published yet so kindly wait for 24 h
 
 The extension will now be installed and active in your browser.
 Features

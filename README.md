@@ -52,7 +52,7 @@ Contributions to this project are welcome and encouraged! If you have any ideas,
     Push your changes to your fork.
     Open a pull request explaining the changes you've made.
 
-### License
+## License
 
 This extension is released under the MIT License, which means you can use it, modify it, and distribute it for free. Make sure to refer to the License file for more details.
 

@@ -1,4 +1,4 @@
-#### Custom Window Control Buttons Extension
+# Custom Window Control Buttons Extension
 
 most of the features mentioned here not fully work yet
 

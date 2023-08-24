@@ -1,5 +1,5 @@
 Custom Window Control Buttons Extension
-*most of the feturs not fully works yet
+#most of the feturs not fully works yet
 
 Extension Demo
 

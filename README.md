@@ -1,29 +1,15 @@
 Custom Window Control Buttons Extension
+*most of the feturs not fully works yet*
 
 Extension Demo
 
-The Custom Window Control Buttons is a browser extension designed to enhance the user experience by providing additional window control buttons with customizable functionalities. This extension is compatible with major web browsers such as Chrome, Firefox, and Edge.
-Table of Contents
-
-    Installation
-    Features
-    Usage
-    Customization
-    Contributing
-    License
+The Custom Window Control Buttons is a browser extension designed to enhance the user experience by providing additional window control buttons with customizable functionalities. This extension is compatible with Firefox for now.
 
 Installation
 
 To install the extension, follow these steps:
 
-    Clone or download this repository to your local machine.
-    Open your browser's extension page:
-        For Chrome, go to chrome://extensions/
-        For Firefox, go to about:addons
-        For Edge, go to edge://extensions/
-    Enable "Developer mode" on the extension page.
-    Click on the "Load unpacked" or "Load extension" button.
-    Select the directory where you cloned/downloaded the extension files.
+    not published yet waiting
 
 The extension will now be installed and active in your browser.
 Features

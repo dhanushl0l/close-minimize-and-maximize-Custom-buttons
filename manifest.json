@@ -1,21 +1,29 @@
 {
-    "manifest_version": 2,
-    "name": "Custom Buttons",
-    "version": "1.0",
-    "description": "Adds custom buttons for window actions.",
-    "icons": {
+  "manifest_version": 2,
+  "name": "Custom Buttons",
+  "version": "1.0",
+  "description": "Adds custom buttons for window actions.",
+  "icons": {
+    "48": "icon.png"
+  },
+  "permissions": [
+    "tabs"
+  ],
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": {
       "48": "icon.png"
-    },
-    "permissions": ["tabs"],
-    "browser_action": {
-      "default_popup": "popup.html",
-      "default_icon": {
-        "48": "icon.png"
-      }
-    },
-    "background": {
-      "scripts": ["popup.js"],
-      "persistent": false
+    }
+  },
+  "background": {
+    "scripts": [
+      "popup.js"
+    ],
+    "persistent": false
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{6b1a88af-3cde-49c6-b994-d4a62592cb41}"
     }
   }
-  
+}

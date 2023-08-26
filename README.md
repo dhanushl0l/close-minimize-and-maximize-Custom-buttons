@@ -10,7 +10,7 @@ The Custom Window Control Buttons is a browser extension designed to enhance the
 
 To install the extension, follow these steps:
 
-    Download the extension package from the provided releases. 
+    Download the extension package from the provided in releases. 
 
     Open your Firefox browser.
 

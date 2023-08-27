@@ -30,7 +30,7 @@ To install the extension, follow these steps:
 
     Enjoy the enhanced window control experience with your personalized buttons!
 
-    or "wait"
+    or "https://addons.mozilla.org/en-US/firefox/addon/close-minimize-and-maximize/" to install the extension.
 
 The extension will now be installed and active in your browser.
 Features

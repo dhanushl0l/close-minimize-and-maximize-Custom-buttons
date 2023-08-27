@@ -30,10 +30,7 @@ To install the extension, follow these steps:
 
     Enjoy the enhanced window control experience with your personalized buttons!
 
-    or "https://addons.mozilla.org/en-US/firefox/addon/close-minimize-and-maximize/" to install the extension.
-
-The extension will now be installed and active in your browser.
-Features
+OR "https://addons.mozilla.org/en-US/firefox/addon/close-minimize-and-maximize/" to install the extension from mozilla.
 
 The Custom Window Control Buttons extension enhances the standard window controls (close, minimize, maximize/restore) with the following additional features:
 

@@ -16,3 +16,10 @@ document.getElementById("minimizeButton").addEventListener("click", function () 
     });
   });
   
+  document.getElementById("WindowButton").addEventListener("click", function () {
+    browser.windows.getCurrent().then((windowInfo) => {
+      const newState = windowInfo.state === "fullscreen" ? "normal" : "fullscreen";
+      browser.windows.update(windowInfo.id, { state: newState });
+    });
+  });
+  

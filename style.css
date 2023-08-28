@@ -5,7 +5,7 @@ body {
 button {
     background-color: #ff0000;
     border: none;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     transition: background-color 0.3s, transform 0.2s, box-shadow 0.3s;
   }
   
@@ -19,3 +19,13 @@ button {
     transform: scale(0.95);
     box-shadow: none;
   }
+
+.settings-icon {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  width: 40px; 
+  height: 40px; 
+  background-image: url("settings-icon.png"); 
+  background-size: cover;
+}

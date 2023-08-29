@@ -29,7 +29,7 @@ button:active {
   height: 40px;
   background-image: url("settings-icon.png"); 
   background-size: cover;
-  border-radius: 50%;
+  border-radius: 20%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -38,12 +38,43 @@ button:active {
 
 .Window-icon {
   position: absolute;
+  bottom: 70px;
   right: 20px;
   width: 40px;
-  height: 40px; 
+  height: 40px;
   background-image: url("settings-icon.png"); 
   background-size: cover;
-  border-radius: 50%; 
+  border-radius: 20%; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: background-color 0.3s, transform 0.2s, box-shadow 0.3s;
+}
+
+.minimize-icon {
+  position: absolute;
+  bottom: 130px;
+  right: 20px;
+  width: 40px;
+  height: 40px;
+  background-image: url("settings-icon.png"); 
+  background-size: cover;
+  border-radius: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: background-color 0.3s, transform 0.2s, box-shadow 0.3s;
+}
+
+.Close-icon {
+  position: absolute;
+  bottom: 170px;
+  right: 20px;
+  width: 40px;
+  height: 40px;
+  background-image: url("settings-icon.png"); 
+  background-size: cover;
+  border-radius: 20%;
   display: flex;
   justify-content: center;
   align-items: center;

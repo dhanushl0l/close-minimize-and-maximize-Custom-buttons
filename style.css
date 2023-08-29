@@ -3,11 +3,11 @@ body {
 }
 
 button {
-  background-color: #ff0000;
+  background-color: #000000;
   border: none;
   color: rgb(255, 255, 255);
   transition: background-color 0.3s, transform 0.2s, box-shadow 0.3s;
-  cursor: pointer; /* Add cursor property for buttons */
+  cursor: pointer;
 }
 
 button:hover {
@@ -21,62 +21,44 @@ button:active {
   box-shadow: none;
 }
 
-.settings-icon {
-  position: absolute;
-  bottom: 20px;
-  right: 20px;
+.settings-icon,
+.Window-icon,
+.minimize-icon,
+.Close-icon {
   width: 40px;
   height: 40px;
-  background-image: url("settings-icon.png"); 
   background-size: cover;
   border-radius: 20%;
   display: flex;
   justify-content: center;
   align-items: center;
   transition: background-color 0.3s, transform 0.2s, box-shadow 0.3s;
+}
+
+.settings-icon {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-image: url("settings-icon.png");
 }
 
 .Window-icon {
   position: absolute;
   bottom: 70px;
   right: 20px;
-  width: 40px;
-  height: 40px;
-  background-image: url("settings-icon.png"); 
-  background-size: cover;
-  border-radius: 20%; 
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  transition: background-color 0.3s, transform 0.2s, box-shadow 0.3s;
+  background-image: url("Window-icon.png");
 }
 
 .minimize-icon {
   position: absolute;
-  bottom: 130px;
-  right: 20px;
-  width: 40px;
-  height: 40px;
-  background-image: url("settings-icon.png"); 
-  background-size: cover;
-  border-radius: 20%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  transition: background-color 0.3s, transform 0.2s, box-shadow 0.3s;
+  bottom: 70px;
+  right: 80px;
+  background-image: url("minimize-icon.png");
 }
 
 .Close-icon {
   position: absolute;
-  bottom: 170px;
-  right: 20px;
-  width: 40px;
-  height: 40px;
-  background-image: url("settings-icon.png"); 
-  background-size: cover;
-  border-radius: 20%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  transition: background-color 0.3s, transform 0.2s, box-shadow 0.3s;
+  bottom: 70px;
+  right: 140px;
+  background-image: url("close-icon.png");
 }

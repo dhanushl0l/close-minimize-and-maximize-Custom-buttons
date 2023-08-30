@@ -16,3 +16,8 @@ document.getElementById("WindowButton").addEventListener("click", function () {
     browser.windows.update(windowInfo.id, { state: newState });
   });
 });
+
+const settingsButton = document.getElementById('SettingsButton');
+settingsButton.addEventListener('click', () => {
+  window.location.href = 'settings.html'; 
+});

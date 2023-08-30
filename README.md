@@ -52,9 +52,6 @@ Customizing the extension buttons is straightforward:
     For each button, you can set its label, icon, and the action it should perform.
     Actions can include predefined actions (e.g., reload, open new tab) or custom JavaScript code.
 
-Remember to save your changes, and the buttons will be updated accordingly.
-Contributing
-
 Contributions to this project are welcome and encouraged! If you have any ideas, feature suggestions, or bug reports, please:
 
     Fork the repository.

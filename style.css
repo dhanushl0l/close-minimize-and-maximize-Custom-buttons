@@ -49,3 +49,18 @@ button:active {
 .Close-icon {
   background-image: url("close-icon.png");
 }
+    .custom-button {
+      margin-right: 5px;
+      margin-left: 5px;
+      margin-bottom: 5px;
+      margin-top: 5px;
+    }
+
+    .custom-button {
+      margin-left: 5px;
+    }
+
+    .custom-button {
+      width: 20px;
+      height: 20px;
+    }

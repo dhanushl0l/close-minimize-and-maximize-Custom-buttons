@@ -25,7 +25,6 @@ button:active {
   box-shadow: none;
 }
 
-.settings-icon,
 .Window-icon,
 .minimize-icon,
 .Close-icon {
@@ -37,10 +36,6 @@ button:active {
   justify-content: center;
   align-items: center;
   transition: background-color 0.3s, transform 0.2s, box-shadow 0.3s;
-}
-
-.settings-icon {
-  background-image: url("settings-icon.png");
 }
 
 .Window-icon {
